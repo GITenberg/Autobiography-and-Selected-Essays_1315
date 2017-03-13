@@ -1,5 +1,8 @@
 _repo: Autobiography-and-Selected-Essays_1315
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Huxley, Thomas Henry
@@ -14,6 +17,8 @@ description: An accomplished biologist, Thomas Henry Huxley was committed to Dar
   his life and accomplishments and is essential reading for scholars of scientific
   history. Included are essays, On a Piece of Chalk," On Improving Natural Knowledge,"
   and On the Physical Basis of Life."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1315#Autobiography-and-Selected-Essays
 gutenberg_issued: '2006-05-03'
 gutenberg_type: Text
 identifiers:
